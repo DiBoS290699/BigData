@@ -1,3 +1,4 @@
 Data
-.beeline
-.ipynb_checkpoints
+**/.beeline
+**/.ipynb_checkpoints
+**/.idea
